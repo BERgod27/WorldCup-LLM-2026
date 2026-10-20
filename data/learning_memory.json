@@ -1,0 +1,65 @@
+[
+    {
+        "teams": [
+            "Nigeria",
+            "Argentina"
+        ],
+        "match_date": null,
+        "context": "Predicted a Nigeria win, but the result was an Argentina win",
+        "lesson": "Overvaluing home advantage while disregarding an opponent\u2019s superior expected goals-for differential against a balanced defense causes systematic underestimation of away victories in high-stakes tournament matches where elite offensive efficiency overrides venue bias."
+    },
+    {
+        "teams": [
+            "Croatia",
+            "Italy"
+        ],
+        "match_date": null,
+        "context": "Predicted a Croatia win, but the result was a draw",
+        "lesson": "Overestimating the impact of home venue on goal scoring probability fails to account for Italy\u2019s superior historical defensive efficiency (0.8 goals conceded per match) when both teams prioritize tactical stability over high-risk attacking play in balanced tournament scenarios."
+    },
+    {
+        "teams": [
+            "Finland",
+            "Russia"
+        ],
+        "match_date": null,
+        "context": "Predicted a Finland win, but the result was a Russia win",
+        "lesson": "Prioritize expected goal generation disparities and offensive volume consistency over home advantage or balanced tactical assumptions when facing an opponent whose chance creation significantly exceeds your team's defensive vulnerability in expectation."
+    },
+    {
+        "teams": [
+            "Hungary",
+            "Portugal"
+        ],
+        "match_date": null,
+        "context": "Predicted a Hungary win, but the result was a Portugal win",
+        "lesson": "Do not rely on recent defensive resilience or home advantage to predict outcomes when facing an opponent with a significantly higher expected goals differential, as superior attacking volume will convert into results regardless of tactical balance."
+    },
+    {
+        "teams": [
+            "Canada",
+            "Bosnia-Herzegovina"
+        ],
+        "match_date": null,
+        "context": "Predicted a Canada win, but the result was a draw",
+        "lesson": "Predicting outcomes based solely on expected goals is flawed when a team\u2019s conversion rate significantly lags behind their xG output, allowing balanced opponents to neutralize offensive pressure and secure draws rather than home wins against resilient defenses."
+    },
+    {
+        "teams": [
+            "Spain",
+            "Cape Verde Islands"
+        ],
+        "match_date": null,
+        "context": "Predicted a Spain win, but the result was a draw",
+        "lesson": "Overestimating Spain\u2019s offensive dominance without accounting for Cape Verde's potential to neutralize xG through disciplined defensive blocks leads to an overestimated win probability that fails to capture the likelihood of a low-scoring stalemate."
+    },
+    {
+        "teams": [
+            "Iran",
+            "New Zealand"
+        ],
+        "match_date": null,
+        "context": "Predicted an Iran win, but the result was a draw",
+        "lesson": "Ignoring a favorite's high historical xG against average exceeding one goal per match leads to incorrect win predictions because defensive vulnerabilities often neutralize offensive advantages and result in balanced draw outcomes regardless of opponent quality or tournament stakes."
+    }
+]

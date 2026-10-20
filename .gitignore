@@ -1,0 +1,38 @@
+# Virtual environments and local secrets
+venv/
+.venv/
+env/
+.env
+.env.*
+
+# Cache and compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE, editor and AI-assistant folders
+.vscode/
+.idea/
+.claude/
+.cursor/
+.gemini/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scratch files and config
+scratch/
+downloaded_files/
+llm_config.json
+*.log
+
+# StatsBomb-derived data cache: built locally on first run, never redistributed
+# (StatsBomb's user agreement does not allow sharing their data)
+data/historical_matches_with_xg.csv
+
+# Local working notes
+notes/
+uploads/

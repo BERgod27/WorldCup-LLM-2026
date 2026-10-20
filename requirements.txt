@@ -1,0 +1,12 @@
+# Core prediction pipeline
+pandas>=2.0
+requests>=2.31
+ollama>=0.5
+statsbombpy>=1.12
+
+# Interactive chat mode (sports_analyst_cli.py, check_ollama.py)
+langchain-core>=0.3
+langchain-ollama>=0.3.4
+
+# Tests
+pytest>=8.0
